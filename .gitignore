@@ -1,7 +1,8 @@
 .ipynb_checkpoints/
+.ipynb_aml_checkpoints/
 .vscode/
-cc.de.300.bin
 .amlignore
 .amlignore.amltmp
+cc.de.300.bin
 bert-base-multilingual-uncased-tokenizer/
 saved_model/
