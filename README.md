@@ -1,5 +1,3 @@
-# Sources
-
 ## [ Python environment ]
 
 Python requirements are all listet in YML file `ml_environment_mpriess.yml`.
